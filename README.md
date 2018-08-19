@@ -1,4 +1,4 @@
-# JavaScript Hide and Seek
+learn # JavaScript Hide and Seek
 
 ## Objectives
 
